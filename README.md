@@ -1,6 +1,6 @@
 # 📓 Notes App
 
-A lightweight, fullstack Notes application for your Ubuntu desktop.  
+A lightweight, fullstack Notes application for your 😝 desktop.  
 Built with **Node.js + Express + SQLite** — runs entirely offline, no cloud needed.
 
 ---
@@ -23,7 +23,7 @@ chmod +x install.sh
 ./install.sh
 ```
 
-Then find **Notes** in your Ubuntu App Menu and launch it.
+Then find **Notes** in your App Menu and launch it.
 
 ---
 
